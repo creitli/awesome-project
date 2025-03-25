@@ -1,0 +1,3 @@
+[submodule "vendor/awesome-modul"]
+	path = vendor/awesome-modul
+	url = git@github.com:creitli/awesome-modul.git
